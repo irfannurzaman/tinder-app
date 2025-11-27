@@ -222,7 +222,17 @@ Scan QR di Expo Go (Android/iOS) atau jalankan emulator.
 
 ---
 
-## 9. Perintah Penting
+## 9. Demo Video
+
+- **Screen recording**: `ScreenRecording_11-27-2025 15-59-20_1.MP4`
+  - Lokasi file: root project (`/Users/irfannzaman/Documents/Tinder/ScreenRecording_11-27-2025 15-59-20_1.MP4`)
+  - Berisi demo alur utama aplikasi (swipe, like/dislike, dan navigasi tab).
+
+---
+
+## 10. Perintah Penting
+
+## 10. Perintah Penting
 
 ### Backend
 

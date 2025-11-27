@@ -1,3 +1,9 @@
+## Demo GIF
+
+![Demo aplikasi](demo.gif)
+
+---
+
 ## Tinder-like App (Mobile + Backend)
 
 Monorepo ini berisi:
@@ -222,18 +228,7 @@ Scan QR di Expo Go (Android/iOS) atau jalankan emulator.
 
 ---
 
-## 9. Demo GIF
-
-- **Preview aplikasi (GIF)**
-
-  ![Demo aplikasi](demo.gif)
-
-  - File GIF: `demo.gif` (di root project)
-  - Berisi demo alur utama aplikasi (swipe, like/dislike, dan navigasi tab).
-
----
-
-## 10. Perintah Penting
+## 9. Perintah Penting
 
 ### Backend
 

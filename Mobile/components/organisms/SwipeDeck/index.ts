@@ -1,0 +1,2 @@
+export { SwipeDeck } from './SwipeDeck';
+

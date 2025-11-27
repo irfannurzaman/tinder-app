@@ -222,11 +222,13 @@ Scan QR di Expo Go (Android/iOS) atau jalankan emulator.
 
 ---
 
-## 9. Demo Video
+## 9. Demo GIF
 
-- **Screen recording**
-  - [Demo video (MP4)](ScreenRecording_11-27-2025 15-59-20_1.MP4)
-  - Lokasi file di repo: root project (`ScreenRecording_11-27-2025 15-59-20_1.MP4`)
+- **Preview aplikasi (GIF)**
+
+  ![Demo aplikasi](demo.gif)
+
+  - File GIF: `demo.gif` (di root project)
   - Berisi demo alur utama aplikasi (swipe, like/dislike, dan navigasi tab).
 
 ---
